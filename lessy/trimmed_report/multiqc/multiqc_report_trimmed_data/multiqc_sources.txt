@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	pe1_sub	/home/pailleritskiy_1/lessy/trimmed_report/fastqc/pe1_sub.fq.trimmed_fastqc.zip
+FastQC	all_sections	mp2_sub	/home/pailleritskiy_1/lessy/trimmed_report/fastqc/mp2_sub.fq.int_trimmed_fastqc.zip
+FastQC	all_sections	pe2_sub	/home/pailleritskiy_1/lessy/trimmed_report/fastqc/pe2_sub.fq.trimmed_fastqc.zip
+FastQC	all_sections	mp1_sub	/home/pailleritskiy_1/lessy/trimmed_report/fastqc/mp1_sub.fq.int_trimmed_fastqc.zip

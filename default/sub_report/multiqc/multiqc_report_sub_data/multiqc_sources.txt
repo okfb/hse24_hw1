@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	pe2_sub	/home/pailleritskiy_1/default/sub_report/fastqc/pe2_sub_fastqc.zip
+FastQC	all_sections	pe1_sub	/home/pailleritskiy_1/default/sub_report/fastqc/pe1_sub_fastqc.zip
+FastQC	all_sections	mp2_sub	/home/pailleritskiy_1/default/sub_report/fastqc/mp2_sub_fastqc.zip
+FastQC	all_sections	mp1_sub	/home/pailleritskiy_1/default/sub_report/fastqc/mp1_sub_fastqc.zip

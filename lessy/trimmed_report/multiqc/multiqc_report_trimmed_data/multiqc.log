@@ -1,0 +1,19 @@
+[2024-10-01 16:03:43,175] multiqc                                            [DEBUG  ]  This is MultiQC v1.13
+[2024-10-01 16:03:43,175] multiqc                                            [DEBUG  ]  Command used: /usr/local/bin/multiqc fastqc --filename multiqc_report_trimmed --outdir multiqc
+[2024-10-01 16:03:43,578] multiqc                                            [WARNING]  MultiQC Version v1.25 now available!
+[2024-10-01 16:03:43,578] multiqc                                            [DEBUG  ]  Working dir : /home/pailleritskiy_1/lessy/trimmed_report
+[2024-10-01 16:03:43,578] multiqc                                            [DEBUG  ]  Template    : default
+[2024-10-01 16:03:43,578] multiqc                                            [DEBUG  ]  Running Python 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0]
+[2024-10-01 16:03:43,578] multiqc                                            [DEBUG  ]  Analysing modules: custom_content, ccs, ngsderive, purple, conpair, lima, peddy, somalier, methylQA, mosdepth, phantompeakqualtools, qualimap, preseq, quast, qorts, rna_seqc, rockhopper, rsem, rseqc, busco, bustools, goleft_indexcov, gffcompare, disambiguate, supernova, deeptools, sargasso, verifybamid, mirtrace, happy, mirtop, sambamba, homer, hops, macs2, theta2, snpeff, gatk, htseq, bcftools, featureCounts, fgbio, dragen, dedup, pbmarkdup, damageprofiler, biobambam2, jcvi, mtnucratio, picard, vep, sentieon, prokka, qc3C, nanostat, samblaster, samtools, sexdeterrmine, eigenstratdatabasetools, bamtools, jellyfish, vcftools, longranger, stacks, varscan2, snippy, bbmap, bismark, biscuit, hicexplorer, hicup, hicpro, salmon, kallisto, slamdunk, star, hisat2, tophat, bowtie2, bowtie1, snpsplit, odgi, pangolin, kat, leehom, adapterRemoval, clipandmerge, cutadapt, flexbar, kaiju, kraken, malt, trimmomatic, sickle, skewer, sortmerna, biobloomtools, fastq_screen, afterqc, fastp, fastqc, pychopper, pycoqc, minionqc, multivcfanalyzer, clusterflow, checkqc, bcl2fastq, bclconvert, interop, ivar, flash, seqyclean, optitype, whatshap
+[2024-10-01 16:03:43,578] multiqc                                            [DEBUG  ]  Using temporary directory for creating report: /tmp/tmpyrqys635
+[2024-10-01 16:03:43,645] multiqc                                            [INFO   ]  Search path : /home/pailleritskiy_1/lessy/trimmed_report/fastqc
+[2024-10-01 16:03:43,909] multiqc                                            [DEBUG  ]  Summary of files that were skipped by the search: [skipped_module_specific_max_filesize: 44] // [skipped_no_match: 4]
+[2024-10-01 16:03:44,111] multiqc.plots.bargraph                             [DEBUG  ]  Using matplotlib version 3.6.0
+[2024-10-01 16:03:44,112] multiqc.plots.linegraph                            [DEBUG  ]  Using matplotlib version 3.6.0
+[2024-10-01 16:03:44,112] multiqc                                            [DEBUG  ]  No samples found: custom_content
+[2024-10-01 16:03:44,133] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 4 reports
+[2024-10-01 16:03:44,177] multiqc                                            [INFO   ]  Compressing plot data
+[2024-10-01 16:03:44,219] multiqc                                            [INFO   ]  Report      : multiqc/multiqc_report_trimmed.html
+[2024-10-01 16:03:44,219] multiqc                                            [INFO   ]  Data        : multiqc/multiqc_report_trimmed_data
+[2024-10-01 16:03:44,219] multiqc                                            [DEBUG  ]  Moving data file from '/tmp/tmpyrqys635/multiqc_data' to 'multiqc/multiqc_report_trimmed_data'
+[2024-10-01 16:03:44,270] multiqc                                            [INFO   ]  MultiQC complete
